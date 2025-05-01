@@ -1,5 +1,5 @@
 {
-  "name": "todowithredis",
+  "name": "api-caching",
   "version": "1.0.0",
   "description": "Todo REST service with caching",
   "license": "ISC",

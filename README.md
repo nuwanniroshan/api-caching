@@ -54,6 +54,8 @@ npm install
 2. Start the development server:
 ```bash
 npm run dev
+// Open following URL
+http://localhost:8000/api/todo?userId=1
 ```
 
 ## Testing
