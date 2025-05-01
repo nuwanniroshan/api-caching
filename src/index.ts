@@ -19,7 +19,7 @@ app.get("/", (req: Request, res: Response) => {
 
 const server = app.listen(port, () => {
   cache.connect();
-  console.log(`Server is Fire at https://localhost:${port}`);
+  console.log(`Server is Fire at http://localhost:${port}`);
 });
 
 const shutdown = (signal: string) => {
